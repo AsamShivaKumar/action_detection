@@ -1,1 +1,3 @@
-/mp_data/.*/.*
+mp_data/hello/.*
+mp_data/thanks/.*
+mp_data/iloveyou/.*
