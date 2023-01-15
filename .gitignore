@@ -1,3 +1,3 @@
-mp_data/hello/.*
-mp_data/thanks/.*
-mp_data/iloveyou/.*
+mp_data/hello/**
+mp_data/thanks/**
+mp_data/iloveyou/**
